@@ -1,0 +1,6 @@
+.btn-toolbar {
+  justify-content: center !important; }
+  .btn-toolbar .btn {
+    margin: 10px; }
+    .btn-toolbar .btn a {
+      color: #ffffff; }
