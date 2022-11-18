@@ -12,7 +12,7 @@
     "react-dom": "^16.10.2",
     "react-p5-wrapper": "^2.0.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.4.4"
   },
   "scripts": {
     "build-css": "node-sass-chokidar --include-path ./src/component --include-path ./node_modules src/component -o src/component",
